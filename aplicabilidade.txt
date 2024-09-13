@@ -1,0 +1,28 @@
+Escreva neste espaço a viabilidade do projeto com respeito à(ao):
+
+-           Amostra, contexto organizacional ou caso de estudo: você tem acesso e autorização para realizar o estudo/projeto com a amostra, 
+no contexto organizacional ou no caso de estudo selecionado?
+No contexto organizacional ou no caso de estudo tenho acesso e autorizacao para realizar o estudo 
+no contexto organizacional ou no caso de estudo visto que a Direccao Nacional de Industria 
+encontrasse na mesma regiao que a minha e me foi autorizado por parte da organizacao 
+direito a entrevistar os funcionarios,consultar a documentacao e apresentar os resultados a direccao
+
+-           Recursos: você dispõe dos recursos (humanos, materiais, espaciais) e conhecimentos específicos necessários?
+Para a pesquisa disponho dos tecnicos da organizacao que 
+possuem bastante informacao relacionada ao processo de mapeamento das industrias, computadores para 
+digitar a informacao,internet, materias das aulas, acesso as bibliotecas,telefones para comunicacao
+
+-           Tempo: em quanto tempo você estima que poderá concluir este projeto? Considere a sua proposta e a dedicação/disponibilidade que você possui para desenvolvê-la.
+O projecto podera ser concluido em um periodo de 6 meses visto tratar-se de um trabalho de natureza 
+aplicada com necessidade de perceber os processos envolvidos e a pesquisa ser exploratoria que 
+pode envolver entrevistas,questionarios e formularios
+-           Aplicabilidade: seu projeto tem aplicação prática?
+Quanto a aplicabilidade o projecto tem uma aplicacao pratica porque com o Sistema de informacao proposto usando 
+as tecnologias web vai permitir o acesso em tempo real a qualquer instante e de permitir o registo das empresas 
+que nao estao registadas no sistema e fazer o licenciamento , 
+o pagamento online e aceder a outras instituicoes atraves de uma unica plataforma
+Para consultar as industrias licenciadas em todo o pais o acesso sera via navegador web, permitindo que os tecnicos, os dirigentes da organizacao, 
+instituicoes do governo e agentes economicos possam fazer analises de estudos relativos as industrias existentes
+Atraves do sistema integrado a onde teremos todas a instituicoes do estado envolvidas no licenciamento sera possivel fazer o pagamento das taxas nas zonas a onde nao temos bancos pois o sistema tera um sistema de pagamentos, existem instituicoes publicas que nao possuem infraestrutura de rede para permitir o acesso atraves da internet em zonas recondidas mas como 
+a plataforma tera acesso atraves da web vai permitir que usando telefones celulares 
+seja possivel efectuar o licenciamento
