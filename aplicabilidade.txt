@@ -26,3 +26,7 @@ instituicoes do governo e agentes economicos possam fazer analises de estudos re
 Atraves do sistema integrado a onde teremos todas a instituicoes do estado envolvidas no licenciamento sera possivel fazer o pagamento das taxas nas zonas a onde nao temos bancos pois o sistema tera um sistema de pagamentos, existem instituicoes publicas que nao possuem infraestrutura de rede para permitir o acesso atraves da internet em zonas recondidas mas como 
 a plataforma tera acesso atraves da web vai permitir que usando telefones celulares 
 seja possivel efectuar o licenciamento
+
+
+
+Informação alterada no ficheiro
